@@ -1,0 +1,7 @@
+Necessary installations to run the python code
+
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install scikit-learn
